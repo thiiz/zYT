@@ -1,5 +1,5 @@
 ## Requirements
-- Python 3.8 or higher
+- [Python](https://www.python.org/downloads/) 3.8 or higher
 - [FFmpeg](https://www.ffmpeg.org/download.html) installed
 - [Discord developer](https://discord.com/developers/) account
 - [YouTube](https://youtube.com) cookies
