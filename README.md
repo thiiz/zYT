@@ -25,12 +25,6 @@
     c. Select "Export cookies.txt"
     d. Save as "cookies.txt" in project root
 
-📂 zyt/
-├── 📂 src/
-│   ├── 📄 main.py
-│   ├── 📄 cookies.txt
-
-
 ⚠️ Critical Security Notes
 
     🔒 Never share cookies.txt publicly
