@@ -35,15 +35,15 @@
 
     🚫 Revoke cookies if compromised:
     My Account → Security → Third-Party Apps
-
+   
 ## Installation
 
 4. **Clone the repository:**
-```bash
+   ```bash
    git clone https://github.com/thiiz/zyt.git
    cd zyt
 
 5. **run the bot:**
-```bash
-   pip install -r requirements.txt
-   python main.py
+   ```bash
+      pip install -r requirements.txt
+      python main.py
